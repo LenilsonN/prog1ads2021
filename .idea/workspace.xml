@@ -28,6 +28,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -195,7 +196,7 @@
       <workItem from="1582240175255" duration="74000" />
       <workItem from="1582852850495" duration="1031000" />
       <workItem from="1583438321960" duration="2706000" />
-      <workItem from="1583690634774" duration="854000" />
+      <workItem from="1583690634774" duration="1385000" />
     </task>
     <servers />
   </component>
