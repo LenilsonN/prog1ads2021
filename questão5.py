@@ -1,0 +1,5 @@
+valor_og = float(input("Informe o valor da divida"))
+dias_de_atraso = int(input("Quantos dias de atraso?"))
+multa = float(input("Valor original?"))
+valor_atualizado = valor_og + (dias_de_atraso * multa)
+print("O valor atualizado da divida é de R$ %.2f" %valor_atualizado)
